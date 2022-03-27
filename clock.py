@@ -1,5 +1,4 @@
-import time
-import os
+import time, os
 
 COLON_INDEX = 10
 
