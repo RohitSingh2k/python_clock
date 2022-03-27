@@ -11,8 +11,7 @@ This is a simple pythn code which prints digital clock like 👇.
 ## The code is given below.
 
 ```python
-import time
-import os
+import time, os
 
 COLON_INDEX = 10
 
