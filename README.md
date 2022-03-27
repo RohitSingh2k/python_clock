@@ -3,9 +3,10 @@
 This is a simple pythn code which prints digital clock like 👇.
 
 ```bash
-  _    _    *    _    _    *    _       
-  _|   _|       |_   |_|       |_   |_| 
- |_   |_    *    _|  |_|   *    _|    | 
+  _    _         _    _         _       
+  _|   _|   -   |_   |_|   -   |_   |_| 
+ |_   |_    -    _|  |_|   -    _|    | 
+ 
 ```
 
 ## The code is given below.
@@ -77,9 +78,9 @@ DIGITS_ARR = [
     ],
 
     [
-        '  *  ',
         '     ',
-        '  *  '
+        '  -  ',
+        '  -  '
     ]
 ]
 
